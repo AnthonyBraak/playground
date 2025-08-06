@@ -1,0 +1,37 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+button {
+  margin: 0 0.4em;
+}
+.container {
+  margin: 0em 2em;
+}
+.heading {
+  text-align: center;
+  text-shadow: 2px 2px 5px green;
+  .heading-special {
+    text-shadow: 2px 2px 5px red;
+  }
+}
+.done {
+  background-color: #205020;
+  margin: 1em;
+  padding: 0.2em;
+}
+.undone {
+  background-color: #502020;
+  margin: 1em;
+  padding: 0.2em;
+}
