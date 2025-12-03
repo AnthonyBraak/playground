@@ -12,6 +12,10 @@ I try out things like components, props, and state management and move on to mor
 - An evolving project: things may change or break as I try new ideas
 - A collection of mini-experiments, not a polished final product
 
+### Current Features:
+
+- Task list
+
 ---
 
 ## Built With
